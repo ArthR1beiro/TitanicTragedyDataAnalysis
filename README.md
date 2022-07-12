@@ -16,13 +16,16 @@ disponivel em: https://www.kaggle.com/competitions/titanic/data
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/749071242979442764/996450070465609871/titanic1.png)
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/749071242979442764/996450070692122744/titanic2.png)
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/749071242979442764/996450070939578469/titanic3.png)
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/749071242979442764/996450071216398386/titanic4.png)
 
 
-## Languages and Tools:
-Python 3 on Jupyter Notebook
+## Linguagens e Ferramentas:
+Python 3 - Jupyter Notebook
 ## Autores
 
 - [@ArthR1beiro](https://www.github.com/ArthR1beiro)
