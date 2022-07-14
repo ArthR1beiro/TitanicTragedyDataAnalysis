@@ -29,5 +29,5 @@ disponivel em: https://www.kaggle.com/competitions/titanic/data
 Python 3 - Jupyter Notebook
 ## Autores
 
-- [Arthur Ribeir Aguiar](https://www.github.com/ArthR1beiro)
+- [Arthur Ribeiro Aguiar](https://www.github.com/ArthR1beiro)
 
