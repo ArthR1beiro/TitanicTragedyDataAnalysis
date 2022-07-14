@@ -1,6 +1,7 @@
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Titanic-Cobh-Harbour-1912.JPG/330px-Titanic-Cobh-Harbour-1912.JPG)
+<img align="center" alt="Titanic" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Titanic-Cobh-Harbour-1912.JPG/330px-Titanic-Cobh-Harbour-1912.JPG">
+
 # Analise de dados da tragedia Titanic
-<img align="center" alt="Arth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 Analise desenvolvida com base em dados disponibilizados pela Kaggle
 disponivel em: https://www.kaggle.com/competitions/titanic/data
