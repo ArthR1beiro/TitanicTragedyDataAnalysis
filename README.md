@@ -1,5 +1,5 @@
 # Analise de dados da tragedia Titanic
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Titanic-Cobh-Harbour-1912.JPG/330px-Titanic-Cobh-Harbour-1912.JPG)
+![Logo](https://i.pinimg.com/originals/7e/c1/24/7ec1248eee6abda20da8c2893445c215.png)
 
 Analise desenvolvida com base em dados disponibilizados pela Kaggle
 disponivel em: https://www.kaggle.com/competitions/titanic/data
