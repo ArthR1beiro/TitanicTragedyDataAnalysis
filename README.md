@@ -1,6 +1,6 @@
 # Analise de dados da tragedia Titanic
-<img align="center" alt="Arth-HTML" height="" width="1000" src="https://i.pinimg.com/originals/7e/c1/24/7ec1248eee6abda20da8c2893445c215.png">
-![Logo](https://i.pinimg.com/originals/7e/c1/24/7ec1248eee6abda20da8c2893445c215.png)
+<img align="center" alt="Arth-HTML" height="" width="500" src="https://i.pinimg.com/originals/7e/c1/24/7ec1248eee6abda20da8c2893445c215.png">
+
 
 Analise desenvolvida com base em dados disponibilizados pela Kaggle
 disponivel em: https://www.kaggle.com/competitions/titanic/data
